@@ -1,3 +1,6 @@
+# need to make necessary changes
+# error in copying/finding app.js file
+
 # Creating a base image
 FROM node:latest
 
